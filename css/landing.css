@@ -1,0 +1,159 @@
+.logo {
+  position: relative;
+  left: 100px;
+}
+
+.nav_bar {
+  position: relative;
+  left: 200px;
+}
+
+.navbutton {
+  position: relative;
+  left: 15px;
+}
+
+.statement {
+  width: 70%;
+  position: relative;
+  left: 50px;
+}
+.statement p {
+  font: 10px;
+}
+.side_image {
+  height: 23rem;
+  width: 21rem;
+}
+
+.headline_image {
+  height: 13px;
+}
+
+span {
+  display: inline-block;
+  margin-left: 325px;
+  width: 50%;
+}
+.feature_image {
+  height: 6rem;
+  width: 5rem;
+}
+
+.feature_image img {
+  height: 2rem;
+}
+
+.feature_1 {
+  background-color: rgb(8, 83, 247);
+}
+
+.feature_3 {
+  width: 5rem;
+  height: 6rem;
+}
+
+.feature_3 img {
+  height: 3rem;
+}
+
+/* .description_container {
+    width: 1000px;
+    height: 300px;
+  } */
+
+.description_container {
+  width: 1000px;
+  height: 365px;
+}
+
+.learn_button {
+  background-color: rgb(16, 66, 175);
+  font-size: 10px;
+  position: relative;
+  right: 100px;
+  border: 2px solid white;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+
+.credit_container {
+  width: 330px;
+  height: 365px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: 1px solid black;
+}
+
+/* .credit_container {
+    width: 304px;
+    height: 300px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 1px solid black;
+  } */
+
+.description_content {
+  border: 1px solid black;
+  background-color: rgb(8, 83, 247);
+  color: white;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  font-size: 10px;
+  padding-top: 20px;
+}
+
+.description_content h2 {
+  font-size: 20px;
+}
+.description_content h5 {
+  font-size: 10px;
+}
+
+/* .credit_image {
+    height: 13rem;
+    width: 19rem;
+  } */
+
+.credit_image {
+  height: 17rem;
+  width: 19rem;
+  position: relative;
+  top: 25px;
+}
+
+.biz_needs {
+  height: 15rem;
+  position: relative;
+  left: 20px;
+}
+
+.footer_section {
+  background-color: rgb(8, 83, 247);
+  color: white;
+}
+
+.footer_section img {
+  height: 12px;
+}
+
+.footer_button {
+  background-color: rgb(120, 192, 13);
+}
+
+.footer_icon {
+  position: relative;
+  top: 12px;
+}
+
+.biz_image {
+  height: 50px;
+  position: relative;
+  right: 135px;
+  bottom: 65px;
+}
+
+/* .biz_container {
+    position: relative;
+    left: 50px;
+  } */
