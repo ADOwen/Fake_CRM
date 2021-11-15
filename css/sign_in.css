@@ -1,0 +1,32 @@
+.form-rounded{
+    border-radius: 5rem;
+    margin-top: 3vw;
+}
+.signup{
+    text-align: center;
+    position: absolute;
+    color: white;
+    margin-top: 4%;
+}
+#platform{
+    padding-top: 2vw;
+}
+.bluescreen{
+    height: 675px;
+    margin-left: -30%;
+    margin-bottom: -15%;
+    margin-top: 0%;
+    position: absolute;
+}
+.picture{
+    width: 350px;
+    height: auto;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 4% ;
+}
+.signin{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+    
